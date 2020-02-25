@@ -1,2 +1,2 @@
 # tfidf
-According to the tf-idf algorithm, golang library of corpus labels is obtained, which supports Chinese word segmentation, English word segmentation and cosine similarity calculation.
+A golang library supporting Chinese and English tag extraction, Chinese word segmentation using Jieba, according to the tfidf weight to extract corpus tags, corpus set using BoltDB.
